@@ -1,0 +1,27 @@
+
+
+}
+ body { background-color:lightblue; 
+          color: darkblue;
+          font-family: Arial, Veranda, sans-serif;
+} 
+h1 {
+  color: green;
+  text-align: center;
+}
+
+h3 {
+  color: green;
+  text-align: center;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+p {
+  color: lihtgreen;
+  text-align: center;
+}
